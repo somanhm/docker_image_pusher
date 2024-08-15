@@ -2,5 +2,6 @@ bitnami/prometheus:2.37.0
 bitnami/alertmanager:0.25.0
 timonwong/prometheus-webhook-dingtalk
 bitnami/node-exporter:1.5.0
-grafana/promtail:latest
-grafana/loki:latest
+grafana/promtail:3.0.0
+grafana/loki:3.0.0
+grafana/grafana:11.0.0
