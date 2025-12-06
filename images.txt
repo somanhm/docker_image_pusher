@@ -1,1 +1,1 @@
-docker.io/mysql:8
+mysql:8
