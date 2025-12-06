@@ -1,2 +1,2 @@
-mysql8.0
+mysql:8
 postgres:18
