@@ -1,2 +1,1 @@
-mysql:8.0
-postgres:18
+ghcr.io/google/cadvisor:v0.55.1
